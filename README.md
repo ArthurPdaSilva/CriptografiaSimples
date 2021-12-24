@@ -12,9 +12,9 @@
 ![Screenshot_1](https://user-images.githubusercontent.com/72280602/147311206-020858cb-7b57-467f-a932-61d024585d94.png)
  
 # Saída num terminal:
-![Screenshot_2](https://user-images.githubusercontent.com/72280602/147309352-758fac7b-f702-4e95-a7e6-762d69c24ebe.png)
+![Screenshot_2](https://user-images.githubusercontent.com/72280602/147311274-679ed0a4-a7c6-4352-a000-6a5d65a05746.png)
  
 # Comentário:
  Ela não possue depedências e pode ser usada tanto num projeto Swing quanto em qualquer projeto;
  
- A versão do java utilizado: 
+ A versão do java utilizada é a 10: 
