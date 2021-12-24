@@ -1,5 +1,8 @@
 # CriptografiaSimples
  Uma biblioteca que criptografa uma mensagem, usando o padrão de 5 caracteres
+
+# Instalação 
+ Instale o jar e adicione na lib do seu projeto
  
 # Utilização:
  A classe apresenta dois métodos estáticos que retornam uma string, são: criptografar e descriptografar;
